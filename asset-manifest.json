@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fake-fake-news/static/css/main.79a6f4aa.chunk.css",
+    "main.js": "/fake-fake-news/static/js/main.5649be1a.chunk.js",
+    "main.js.map": "/fake-fake-news/static/js/main.5649be1a.chunk.js.map",
+    "runtime-main.js": "/fake-fake-news/static/js/runtime-main.4332773f.js",
+    "runtime-main.js.map": "/fake-fake-news/static/js/runtime-main.4332773f.js.map",
+    "static/js/2.dc61f27f.chunk.js": "/fake-fake-news/static/js/2.dc61f27f.chunk.js",
+    "static/js/2.dc61f27f.chunk.js.map": "/fake-fake-news/static/js/2.dc61f27f.chunk.js.map",
+    "index.html": "/fake-fake-news/index.html",
+    "static/css/main.79a6f4aa.chunk.css.map": "/fake-fake-news/static/css/main.79a6f4aa.chunk.css.map",
+    "static/js/2.dc61f27f.chunk.js.LICENSE.txt": "/fake-fake-news/static/js/2.dc61f27f.chunk.js.LICENSE.txt",
+    "static/media/documentary.6a9092cb.mp3": "/fake-fake-news/static/media/documentary.6a9092cb.mp3",
+    "static/media/music.6e332da9.mp3": "/fake-fake-news/static/media/music.6e332da9.mp3",
+    "static/media/podcast.1f55bee3.mp3": "/fake-fake-news/static/media/podcast.1f55bee3.mp3",
+    "static/media/static.36cd3fb8.mp3": "/fake-fake-news/static/media/static.36cd3fb8.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4332773f.js",
+    "static/js/2.dc61f27f.chunk.js",
+    "static/css/main.79a6f4aa.chunk.css",
+    "static/js/main.5649be1a.chunk.js"
+  ]
+}
